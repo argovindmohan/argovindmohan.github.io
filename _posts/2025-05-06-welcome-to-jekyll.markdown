@@ -1,29 +1,33 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title: "Exploring the Siva Trilogy on My Vacation in Palakkad"
 date:   2025-05-06 13:22:14 +0530
-categories: jekyll update
+categories: vacation in palakkad
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+![DC Books Palakkad](/assets/immortals-of-meluha.jpg)
 
-Jekyll also offers powerful support for code snippets:
+On vacation in Palakkad, I began reading *The Immortals of Meluha* by Amish Tripathi. A gripping tale, vivid characters—especially Shiva—drew me in. Can’t wait to read *The Secret of the Nagas*!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## My Reading Experience
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+During my vacation in Kerala, I visited Palakkad and spent some time immersing myself in the world of Amish Tripathi's *Siva Trilogy*. I started with the first book, *The Immortals of Meluha*, and found it absolutely fascinating.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+The way the author builds a fictional yet relatable world, and the way Shiva’s character is portrayed, made it easy for me to visualize the scenes. It’s a perfect read for an avid reader like me.
+
+## Visit to DC Books, Palakkad
+
+To continue the trilogy, I visited the nearest bookshop—**DC Books**, located near the KSRTC bus stand in Palakkad. The store had a great collection, and I picked up the next part of the series.
+
+## What’s Next?
+
+I'm now diving into the second book, *The Secret of the Nagas*, and I'm really excited to see how the story unfolds.
+
+Stay tuned for my thoughts on the next part of this epic series!
+
+---
+
+*Have you read the Siva Trilogy? Share your thoughts in the comments below!*
+
